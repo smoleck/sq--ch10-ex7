@@ -1,4 +1,4 @@
-package com.example.sq_.ch10_ex7;
+package sq_ch10_ex7;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

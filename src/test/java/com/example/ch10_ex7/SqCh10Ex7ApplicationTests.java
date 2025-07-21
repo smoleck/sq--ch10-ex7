@@ -1,4 +1,4 @@
-package com.example.sq_.ch10_ex7;
+package com.example.ch10_ex7;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
